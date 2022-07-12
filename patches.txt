@@ -1,1 +1,7 @@
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
+
+disable-create-button
+disable-fullscreen-panels
+enable-wide-searchbar
+hide-cast-button
+hide-shorts-button
