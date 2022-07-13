@@ -20,7 +20,7 @@ declare -a excluded_patches
 
 artifacts["revanced-cli.jar"]="revanced/revanced-cli revanced-cli .jar"
 artifacts["revanced-integrations.apk"]="revanced/revanced-integrations app-release-unsigned .apk"
-artifacts["revanced-patches.jar"]="revanced/revanced-patches revanced-patches .jar"
+artifacts["revanced-patches.jar"]="rihaq/revanced-patches revanced-patches .jar"
 artifacts["apkeep"]="EFForg/apkeep apkeep-x86_64-unknown-linux-gnu"
 
 ## Functions
